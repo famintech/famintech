@@ -28,8 +28,8 @@ Passionate and dedicated software engineering graduate with hands-on experience 
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Robin's LinkedIn Profile](https://www.linkedin.com/in/ainmutaqorrobin/)
-- Email: [ainmutaqorrobin@gmail.com](mailto:ainmutaqorrobin@gmail.com)
+- LinkedIn: [Fathul's LinkedIn Profile](https://www.linkedin.com/in/famintech/)
+- Email: [](mailto:ainmutaqorrobin@gmail.com)
 
 
 
