@@ -1,6 +1,6 @@
 # Hi there, I'm Fathul Amin 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=ainmutaqorrobin&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=famintech&style=flat-square)
 
 ### 🚀 About Me
 
