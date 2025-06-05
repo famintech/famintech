@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=famintech&style=flat-square)
 
-### 🚀 About Me
+### About Me
 
 Passionate and dedicated software engineering graduate with hands-on experience in modern DevOps practices and PHP frameworks. 
 
