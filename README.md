@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 
-Passionate and dedicated software engineering graduate with hands-on experience in modern JavaScript and PHP frameworks. Recently completed Advanced React training, where I focused on performance optimization, component architecture, and best practices. Currently diving into Micro-Frontend architecture to explore how to build modular, independently deployable frontend systems. Eager to grow in a collaborative environment and contribute to building high-quality web solutions.
+Passionate and dedicated software engineering graduate with hands-on experience in modern DevOps practices and PHP frameworks. 
 
 ---
 
