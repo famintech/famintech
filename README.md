@@ -10,12 +10,17 @@ Passionate and dedicated software engineering graduate with hands-on experience 
 
 ## 🔧 Technologies & Tools
 
-| Frontend | API/Backend | Database | Testing | Dev Tools |
-|----------|-------------|----------|---------|-----------|
-| ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |         | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) |         | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-| ![Blade](https://img.shields.io/badge/-Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white) |             | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |         | ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white) |
-|          |             |          |         | ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white) |
+| Frontend | API/Backend | Database | Dev Tools | DevOps |
+|----------|-------------|----------|-----------|--------|
+| ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) | ![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?style=flat-square&logo=amazon-aws&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) | ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-F58536?style=flat-square&logo=amazon-aws&logoColor=white) |
+| ![Blade](https://img.shields.io/badge/-Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white) |             | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) | ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white) | ![AWS RDS](https://img.shields.io/badge/-AWS%20RDS-527FFF?style=flat-square&logo=amazon-aws&logoColor=white) |
+|          |             |          | ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white) | ![AWS CloudFront](https://img.shields.io/badge/-AWS%20CloudFront-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
+|          |             |          |           | ![AWS Route 53](https://img.shields.io/badge/-AWS%20Route%2053-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
+|          |             |          |           | ![AWS Amplify](https://img.shields.io/badge/-AWS%20Amplify-FF9900?style=flat-square&logo=aws-amplify&logoColor=black) |
+|          |             |          |           | ![AWS EKS](https://img.shields.io/badge/-AWS%20EKS-FF9900?style=flat-square&logo=amazon-eks&logoColor=black) |
+|          |             |          |           | ![AWS ECS](https://img.shields.io/badge/-AWS%20ECS-FF9900?style=flat-square&logo=amazon-ecs&logoColor=black) |
+|          |             |          |           | ![AWS ECR](https://img.shields.io/badge/-AWS%20ECR-FF9900?style=flat-square&logo=amazon-ecr&logoColor=black) |
 
 
 ## 📜 Certifications
