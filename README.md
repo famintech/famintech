@@ -14,7 +14,10 @@ Passionate and dedicated software engineering graduate with hands-on experience 
 
 | Frontend | Backend | Database | APIs & Tools | Testing | Dev Tools |
 |----------|---------|----------|--------------|---------|-----------|
-| ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Blade](https://img.shields.io/badge/-Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white) |  |  |  |  |  |
+| ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) |         |          |              |         |           |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |         |          |              |         |           |
+| ![Blade](https://img.shields.io/badge/-Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white) |         |          |              |         |           |
+
 
 
 
